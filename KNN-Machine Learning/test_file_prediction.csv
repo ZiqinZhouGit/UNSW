@@ -1,0 +1,4 @@
+bore,city-mpg,compression-ratio,curb-weight,engine-size,height,highway-mpg,horsepower,length,normalized-losses,num-of-cylinders,num-of-doors,peak-rpm,stroke,symboling,wheel-base,width
+3.6,18,6,1880,89,49.3,25,89,165.6,154,6,4,6000,3,2,95.8,55.2
+4.2,30,10,2000,90,50,40,105,180,154,12,4,12000,3,2,95.8,57
+3,16,5,1600,60,42,18,60,149,154,4,4,4000,3,2,89,52
